@@ -32,7 +32,7 @@ namespace OrderingProgram
                                            "Tablet Lenovo 13 Inch ",
                                            "DesktopAcer h23",
                                            "DesktopAcer h23",
-                                           "Go to Check out"};
+                                           "Check out payment"};
             decimal[] price = new decimal[20] { 975.00m, 735.00m, 550.00m, 430.00m, 450.00m, 550.00m, 670.00m, 355.00m, 800.00m, 660.00m, 399.00m, 450.00m, 599.00m, 689.00m, 2440.00m, 450.00m, 450.00m, 450.00m, 450.00m, 0 };
             string strprice = "";
 
