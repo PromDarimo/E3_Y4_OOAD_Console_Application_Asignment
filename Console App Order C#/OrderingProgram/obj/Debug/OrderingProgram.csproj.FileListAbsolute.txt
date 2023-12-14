@@ -1,0 +1,21 @@
+D:\C# Activities\OrderingProgram\OrderingProgram\bin\Debug\OrderingProgram.exe.config
+D:\C# Activities\OrderingProgram\OrderingProgram\bin\Debug\OrderingProgram.exe
+D:\C# Activities\OrderingProgram\OrderingProgram\bin\Debug\OrderingProgram.pdb
+D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.exe
+D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.pdb
+D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.csprojAssemblyReference.cache
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\bin\Debug\OrderingProgram.exe.config
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\bin\Debug\OrderingProgram.exe
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\bin\Debug\OrderingProgram.pdb
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\obj\Debug\OrderingProgram.csproj.AssemblyReference.cache
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\obj\Debug\OrderingProgram.csproj.CoreCompileInputs.cache
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\obj\Debug\OrderingProgram.exe
+C:\NewPos\Ordering-Program-Csharp-Console-App-main\OrderingProgram\obj\Debug\OrderingProgram.pdb
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\bin\Debug\OrderingProgram.exe.config
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\bin\Debug\OrderingProgram.exe
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\bin\Debug\OrderingProgram.pdb
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\obj\Debug\OrderingProgram.csproj.AssemblyReference.cache
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\obj\Debug\OrderingProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\obj\Debug\OrderingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\obj\Debug\OrderingProgram.exe
+C:\Users\Optimus Prime\Downloads\Console App Order C#\Console App Order C#\OrderingProgram\obj\Debug\OrderingProgram.pdb
